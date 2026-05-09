@@ -2,6 +2,9 @@
     {
         "id": "soundboard",
         "title": "Meme Soundboard",
+        "category": "Entertainment",
+        "genre": "Soundboard / Meme",
+        "description": "Massive collection of the funniest meme sounds and viral audio clips. Perfect for trolling friends or making content!",
         "url": "https://raw.githack.com/genizy/soundboard/main/index.html",
         "thumb": "memesoundboard.png",
         "type": "app"
@@ -9,6 +12,9 @@
     {
         "id": "ruffle",
         "title": "Ruffle Flash Player",
+        "category": "Utility",
+        "genre": "Emulator",
+        "description": "The best Flash emulator. Play thousands of classic Flash games directly in your browser.",
         "url": "https://flashbangplayer.pages.dev/",
         "thumb": "ruffle.png",
         "type": "app"
@@ -16,6 +22,9 @@
     {
         "id": "htmlrun",
         "title": "HTML Runner",
+        "category": "Action",
+        "genre": "Endless Runner",
+        "description": "Run through a chaotic digital world filled with HTML code, bugs and glitches. A fun coder-themed endless runner!",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/html%20for%20other%20stuff/htmlrunner.html",
         "thumb": "htmlrunner.png",
         "type": "app"
@@ -23,6 +32,9 @@
     {
         "id": "maddox",
         "title": "MaddoxCloud Gaming",
+        "category": "Gaming",
+        "genre": "Cloud Gaming",
+        "description": "Your personal cloud gaming hub with access to tons of unblocked games.",
         "url": "https://cloouud.gdharry123.workers.dev/",
         "thumb": "maddoxcloud.png",
         "type": "app"
@@ -30,6 +42,9 @@
     {
         "id": "scratch",
         "title": "Scratch Editor",
+        "category": "Creative",
+        "genre": "Game Maker",
+        "description": "Create your own games and animations using Scratch. Great for learning coding and game design.",
         "url": "https://raw.githack.com/hazzatazza/scratch-editor/main/index.html",
         "thumb": "scratch.png",
         "type": "app"
@@ -37,6 +52,9 @@
     {
         "id": "teaerr",
         "title": "Tea Err List",
+        "category": "Utility",
+        "genre": "Tool",
+        "description": "Handy list and tools for teachers and students.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/html%20for%20other%20stuff/teaerrlist.html",
         "thumb": "teaerr.png",
         "type": "app"
@@ -44,6 +62,9 @@
     {
         "id": "musicmaker",
         "title": "Music Maker Pro",
+        "category": "Creative",
+        "genre": "Music Creator",
+        "description": "Create your own beats and music with this powerful online music studio.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/html%20for%20other%20stuff/musicmakerpro.html",
         "thumb": "musicmakerpro.png",
         "type": "app"
@@ -51,1500 +72,2250 @@
     {
         "id": "bf3d",
         "title": "Bottle Flip 3D",
+        "category": "Arcade",
+        "genre": "Skill / Casual",
+        "description": "Master the perfect bottle flip in beautiful 3D environments. Super satisfying physics!",
         "url": "https://raw.githack.com/ovo-gamez-unblocked/bottle-flip-3d/main/index.html",
         "thumb": "bottleflip.png"
     },
     {
         "id": "bj3d",
         "title": "Bottle Jump 3D",
+        "category": "Arcade",
+        "genre": "Skill / Casual",
+        "description": "Jump and flip bottles through challenging 3D obstacle courses.",
         "url": "https://raw.githack.com/hazzatazza/youtube-playables/main/bottle-jump-3d/index.html",
         "thumb": "bottlejump.png"
     },
     {
         "id": "sw",
         "title": "Space Waves",
+        "category": "Action",
+        "genre": "Endless Runner",
+        "description": "Survive in deep space by dodging asteroids and collecting power-ups in this neon-style endless runner.",
         "url": "https://raw.githack.com/bubbls/UGS-Assets/main/space%20waves/index.html",
         "thumb": "spacewaves.png"
     },
     {
         "id": "ssg",
         "title": "Super Stickman Golf",
+        "category": "Sports",
+        "genre": "Golf / Physics",
+        "description": "Play insane stickman golf courses with crazy physics and challenging holes.",
         "url": "https://raw.githack.com/hsinidev/stickman-golf-unblocked/master/index.html",
         "thumb": "stickmangolf.png"
     },
     {
         "id": "fnf",
         "title": "Friday Night Funkin",
+        "category": "Music",
+        "genre": "Rhythm",
+        "description": "Battle opponents in epic rap battles by hitting notes to the beat. Iconic rhythm game!",
         "url": "https://raw.githack.com/genizy/fridayfunk/09fdd5f1fa4ddb304dff7bae6f6af49eda664e8f/index.html",
         "thumb": "fnf.png"
     },
     {
         "id": "fd",
         "title": "Flappy Dunk",
+        "category": "Sports",
+        "genre": "Arcade / Sports",
+        "description": "Dunk the basketball through flaming hoops in this addictive Flappy Bird style game.",
         "url": "https://raw.githack.com/ahrdevelopers/flappy-dunk/main/index.html",
         "thumb": "flappydunk.png"
     },
     {
         "id": "onr",
         "title": "Om Nom Run",
+        "category": "Action",
+        "genre": "Endless Runner",
+        "description": "Help Om Nom run and eat candy while avoiding obstacles in this fun Cut the Rope spin-off.",
         "url": "https://raw.githack.com/hazzatazza/youtube-playables/main/om-nom-run/index.html",
         "thumb": "omnomrun.png"
     },
     {
         "id": "amz",
         "title": "Amaze",
+        "category": "Puzzle",
+        "genre": "Maze / Skill",
+        "description": "Guide the ball through beautiful and tricky maze levels with perfect precision.",
         "url": "https://raw.githack.com/hazzatazza/youtube-playables/main/amaze/index.html",
         "thumb": "amaze.png"
     },
     {
         "id": "bs",
         "title": "Basketball Stars",
+        "category": "Sports",
+        "genre": "Sports / 1v1",
+        "description": "Realistic 1v1 basketball with smooth controls and crazy dunks. Become the court king!",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/basketballstars.html",
         "thumb": "basketballstars.png"
     },
     {
         "id": "gb",
         "title": "Going Balls",
+        "category": "Arcade",
+        "genre": "Physics / Skill",
+        "description": "Roll your ball through insane obstacle courses. Super satisfying physics gameplay.",
         "url": "https://raw.githack.com/hazzatazza/youtube-playables/main/going-balls/index.html",
         "thumb": "goingballs.png"
     },
     {
         "id": "hw",
         "title": "Happy Wheels",
+        "category": "Action",
+        "genre": "Physics / Ragdoll",
+        "description": "The legendary ragdoll physics game. Complete crazy levels while trying not to die in hilarious ways.",
         "url": "https://raw.githack.com/hazzatazza/ugs-singlefile/main/UGS-Files/clhappywheels.html",
         "thumb": "happywheels.png"
     },
     {
         "id": "p2s",
         "title": "Paper.io 2 (Skinless)",
+        "category": "Strategy",
+        "genre": "IO / Strategy",
+        "description": "Expand your paper territory and conquer the map in this clean version of the popular .io game.",
         "url": "https://raw.githack.com/chocobananakun/paperio2/main/index.html",
         "thumb": "paperioskinless.png"
     },
     {
         "id": "goi-s",
         "title": "Getting Over It (Scratch)",
+        "category": "Puzzle",
+        "genre": "Physics / Rage",
+        "description": "The famous rage climbing game recreated in Scratch. One mistake = big fall!",
         "url": "https://raw.githack.com/gameinclassroom/getting-over-it/main/index.html",
         "thumb": "gettingoveritscratch.png"
     },
     {
         "id": "goi-f",
         "title": "Getting Over It Full",
+        "category": "Puzzle",
+        "genre": "Physics / Rage",
+        "description": "The complete version of the ultimate rage game. Climb the mountain with a hammer and pot.",
         "url": "https://raw.githack.com/genizy/web-port/main/getting-over-it/index.html",
         "thumb": "gettingoveritfull.png"
     },
     {
         "id": "p2",
         "title": "Paper.io 2",
+        "category": "Strategy",
+        "genre": "IO / Strategy",
+        "description": "Grow your area and dominate the map. Avoid other players while expanding your territory.",
         "url": "https://raw.githack.com/ubg17/PaperIO2/gh-pages/index.html",
         "thumb": "paperio2.png"
     },
     {
         "id": "2048",
         "title": "2048",
+        "category": "Puzzle",
+        "genre": "Number Puzzle",
+        "description": "Classic addictive sliding puzzle. Merge tiles to reach the 2048 tile!",
         "url": "https://raw.githack.com/ovolve/2048-AI/master/index.html",
         "thumb": "2048.png"
     },
     {
         "id": "bm",
         "title": "Bowmasters",
+        "category": "Action",
+        "genre": "Physics Shooter",
+        "description": "Hilarious physics archery battles with crazy weapons and ragdoll effects.",
         "url": "https://raw.githack.com/hazzatazza/youtube-playables/main/bowmasters/index.html",
         "thumb": "bowmasters.png"
     },
     {
         "id": "sr",
         "title": "Soccer Random",
+        "category": "Sports",
+        "genre": "Sports / Physics",
+        "description": "Chaotic physics-based soccer with random characters. Pure fun!",
         "url": "https://raw.githack.com/Unblocked-Games-786/Soccer-Random/gh-pages/index.html",
         "thumb": "soccerrandom.png"
     },
     {
         "id": "fn",
         "title": "Fruit Ninja",
+        "category": "Arcade",
+        "genre": "Action / Slicing",
+        "description": "Slice fruits at lightning speed in this classic addictive game.",
         "url": "https://raw.githack.com/genizy/UGS-Assets/main/fruit%20ninja/index.html",
         "thumb": "fruitninja.png"
     },
     {
         "id": "sd",
         "title": "Sling Drift",
+        "category": "Racing",
+        "genre": "Drifting",
+        "description": "Master drifting with smooth controls and realistic car physics.",
         "url": "https://raw.githack.com/ovo-gamez-unblocked/sling-drift/main/index.html",
         "thumb": "slingdrift.png"
     },
     {
         "id": "ss",
         "title": "Subway Surfers",
+        "category": "Action",
+        "genre": "Endless Runner",
+        "description": "The classic endless runner. Run from the inspector, collect coins and unlock new characters.",
         "url": "https://raw.githack.com/hazzatazza/3kh0-assets/fixy/subway-surfers/index.html",
         "thumb": "subwaysurfers.png"
     },
     {
         "id": "3d",
         "title": "3Dash",
+        "category": "Action",
+        "genre": "Rhythm Platformer",
+        "description": "Geometry Dash style game with amazing user-created levels and music.",
         "url": "https://raw.githack.com/hazzatazza/ugs-singlefile/main/UGS-Files/cl3dasheditor.html",
         "thumb": "3dash.png"
     },
     {
         "id": "ec",
         "title": "Eaglercraft",
+        "category": "Adventure",
+        "genre": "Minecraft / Survival",
+        "description": "Full Minecraft 1.12 experience playable directly in your browser.",
         "url": "https://raw.githack.com/alexander-datskov/1.12-eaglercraftx/main/index.html",
         "thumb": "eaglercraft.png"
     },
     {
         "id": "bl",
         "title": "BitLife",
+        "category": "Simulation",
+        "genre": "Life Simulator",
+        "description": "Live life from birth to death. Make choices that affect your entire future.",
         "url": "https://raw.githack.com/hazzatazza/bitlife/main/index.html",
         "thumb": "bitlife.png"
     },
     {
         "id": "tr",
         "title": "Tap Road",
+        "category": "Arcade",
+        "genre": "Endless Runner",
+        "description": "Tap to build the road and keep running as far as possible.",
         "url": "https://raw.githack.com/faralong/all/main/taproad/index.html",
         "thumb": "taproad.png"
     },
     {
         "id": "ld",
         "title": "Level Devil",
+        "category": "Puzzle",
+        "genre": "Platformer / Rage",
+        "description": "Tricky platformer with devilish levels designed to make you rage quit.",
         "url": "https://raw.githack.com/hazzatazza/level-devil/master/index.html",
         "thumb": "leveldevil.png"
     },
     {
         "id": "fb",
         "title": "Flappy Bird",
+        "category": "Arcade",
+        "genre": "Endless Runner",
+        "description": "The legendary simple but extremely addictive flapping bird game.",
         "url": "https://raw.githack.com/hazzatazza/hazzas-ripped-game-testing/main/flappybird/s3-eu-west-1.amazonaws.com/apps.playcanvas.com/a15aec72/index.html",
         "thumb": "flappybird.png"
     },
     {
         "id": "cc",
         "title": "Cookie Clicker",
+        "category": "Simulation",
+        "genre": "Idle / Clicker",
+        "description": "The original addictive idle game. Bake cookies and buy upgrades to produce more.",
         "url": "https://cookieclickeralgebra.pages.dev",
         "thumb": "cookieclicker.png"
     },
     {
         "id": "gdl",
         "title": "Geometry Dash Lite",
+        "category": "Action",
+        "genre": "Rhythm Platformer",
+        "description": "Lite version of the popular rhythm-based platformer with great music and levels.",
         "url": "https://raw.githack.com/threekho/gdl/main/index.html",
         "thumb": "gdlite.png"
     },
     {
         "id": "trush",
         "title": "Tunnel Rush",
+        "category": "Action",
+        "genre": "Endless Runner",
+        "description": "Fly at high speed through a neon tunnel and dodge obstacles.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/tunnelrush.html",
         "thumb": "tunnelrush.png"
     },
     {
         "id": "tf",
         "title": "Tiny Fishing",
+        "category": "Casual",
+        "genre": "Fishing / Idle",
+        "description": "Relaxing fishing game where you catch bigger and bigger fish.",
         "url": "https://raw.githack.com/MajesticWafer/tiny-fishing/main/index.html",
         "thumb": "tinyfishing.png"
     },
     {
         "id": "sr3d",
         "title": "Snow Rider 3D",
+        "category": "Racing",
+        "genre": "Endless Racing",
+        "description": "Ride through snowy mountains collecting coins and doing tricks in this fun 3D game.",
         "url": "https://raw.githack.com/ahrdevelopers/snow-rider-3d/main/index.html",
         "thumb": "snowrider3d.png"
     },
     {
         "id": "tts",
         "title": "Tap Tap Shots",
+        "category": "Sports",
+        "genre": "Basketball / Skill",
+        "description": "Tap at the perfect time to make amazing basketball shots from different angles.",
         "url": "https://taptapshots.pages.dev/",
         "thumb": "taptapshots.png"
     },
     {
         "id": "sh",
         "title": "Stickman Hook",
+        "category": "Action",
+        "genre": "Physics / Swing",
+        "description": "Swing through levels using your rope. Perfect timing is everything!",
         "url": "https://raw.githack.com/hazzatazza/google-class/main/stickman-hook/index.html",
         "thumb": "stickmanhook.png"
     },
     {
         "id": "db",
         "title": "Drift Boss",
+        "category": "Racing",
+        "genre": "Drifting",
+        "description": "Drift your car around challenging tracks and collect points.",
         "url": "https://raw.githack.com/ubg98/DriftBoss/gh-pages/index.html",
         "thumb": "driftboss.png"
     },
     {
         "id": "dad",
         "title": "Dadish",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "Help Dadish rescue his children in this cute and challenging platformer.",
         "url": "https://raw.githack.com/Graysinl/dadish/main/index.html",
         "thumb": "dadish.png"
     },
     {
         "id": "mx3m",
         "title": "Moto X3M",
+        "category": "Racing",
+        "genre": "Bike / Stunt",
+        "description": "Perform insane stunts and flips on your dirt bike across crazy tracks.",
         "url": "https://raw.githack.com/gameshaxor/MotoX3M/master/index.html",
         "thumb": "motox3m.png"
     },
     {
         "id": "wordle",
         "title": "Wordle",
+        "category": "Puzzle",
+        "genre": "Word Puzzle",
+        "description": "Guess the hidden 5-letter word in 6 tries. The daily word guessing phenomenon.",
         "url": "https://raw.githack.com/hazzatazza/3kh0-assets/fixy/wordle/index.html#infinite",
         "thumb": "wordle.png"
     },
     {
         "id": "br",
         "title": "Basket Random",
+        "category": "Sports",
+        "genre": "Sports / Physics",
+        "description": "Chaotic physics basketball with random characters and funny moments.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/basketrandom.html",
         "thumb": "basketrandom.png"
     },
     {
         "id": "pio",
         "title": "Powerline.io",
+        "category": "Strategy",
+        "genre": "IO / Strategy",
+        "description": "Grow your powerline and take over the map in this .io game.",
         "url": "https://powerline.coolmathgames.com/",
         "thumb": "powerlineio.png"
     },
     {
         "id": "rgi",
         "title": "Rocketgoal.io",
+        "category": "Sports",
+        "genre": "Soccer / IO",
+        "description": "Score goals in this fun rocket-powered soccer .io game.",
         "url": "https://raw.githack.com/will-k16/rocketgoal/main/rocketgoal.io/index.html",
         "thumb": "rocketgoal.png"
     },
     {
         "id": "sl",
         "title": "Short Life",
+        "category": "Action",
+        "genre": "Ragdoll / Platformer",
+        "description": "Help the stickman survive crazy and deadly situations in this ragdoll game.",
         "url": "https://shortlife1.pages.dev/",
         "thumb": "shortlife.png"
     },
     {
         "id": "sr-ride",
         "title": "Short Ride",
+        "category": "Racing",
+        "genre": "Bike / Stunt",
+        "description": "Short but intense stunt bike riding challenges.",
         "url": "https://raw.githack.com/hazzatazza/short-ridegood/main/index.html",
         "thumb": "shortride.png"
     },
     {
         "id": "pt",
         "title": "Poly Track",
+        "category": "Racing",
+        "genre": "Racing / Track Builder",
+        "description": "Build and race on your own tracks in this creative racing game.",
         "url": "https://polytrack-3.pages.dev/",
         "thumb": "polytrackold.png"
     },
     {
         "id": "pt52",
         "title": "Poly Track .5.2",
+        "category": "Racing",
+        "genre": "Racing / Track Builder",
+        "description": "Updated version of the popular track building racing game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/polytrack.html",
         "thumb": "polytracknew.png"
     },
     {
         "id": "cr",
         "title": "Crossy Road",
+        "category": "Arcade",
+        "genre": "Endless Runner",
+        "description": "Help the chicken cross the road in this modern take on the classic game.",
         "url": "https://raw.githack.com/hazzatazza/youtube-playables/main/crossy-road/index.html",
         "thumb": "crossyroad.png"
     },
     {
         "id": "wb",
         "title": "Wheelie Bike",
+        "category": "Racing",
+        "genre": "Bike / Stunt",
+        "description": "Perform wheelies and stunts on your bike across challenging levels.",
         "url": "https://wheeliebike-9l9.pages.dev/",
         "thumb": "wheeliebike.png"
     },
     {
         "id": "bmast",
         "title": "Bouncemasters",
+        "category": "Arcade",
+        "genre": "Skill / Physics",
+        "description": "Launch animals as far as possible using trampolines and power-ups.",
         "url": "https://raw.githack.com/hazzatazza/youtube-playables/main/bouncemasters/index.html",
         "thumb": "bouncemasters.png"
     },
     {
         "id": "jj",
         "title": "Jetpack Joyride",
+        "category": "Action",
+        "genre": "Endless Runner",
+        "description": "Fly through laboratories using a jetpack while collecting coins and avoiding obstacles.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/jetpackjoyride.html",
         "thumb": "jetpackjoyride.png"
     },
     {
         "id": "er",
         "title": "Escape Road",
+        "category": "Racing",
+        "genre": "Driving / Survival",
+        "description": "Escape from the police in this high-speed endless driving game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/escaperoad.html",
         "thumb": "escaperoad.png"
     },
     {
         "id": "totm",
         "title": "Tomb of the Mask",
+        "category": "Action",
+        "genre": "Maze / Adventure",
+        "description": "Explore ancient tombs and solve puzzles in this unique maze game.",
         "url": "https://raw.githack.com/water-logger/totm/main/index.html",
         "thumb": "tombofthemask.png"
     },
     {
         "id": "run1",
         "title": "Run",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "Classic platformer where you run and jump through challenging levels.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/run.html",
         "thumb": "run1.png"
     },
     {
         "id": "run2",
         "title": "Run 2",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "The sequel to the popular run platformer with more levels and challenges.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/run2.html",
         "thumb": "run2.png"
     },
     {
         "id": "r3",
         "title": "Run 3",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "The final and most popular version of the Run series with space levels.",
         "url": "https://run3algebra.pages.dev/",
         "thumb": "run3.png"
     },
     {
         "id": "slp",
         "title": "Slope",
+        "category": "Action",
+        "genre": "Endless Runner",
+        "description": "Roll down a neon slope at high speed while avoiding obstacles.",
         "url": "https://sl0pe.pages.dev/",
         "thumb": "slope.png"
     },
     {
         "id": "bb",
         "title": "Block Blast",
+        "category": "Puzzle",
+        "genre": "Block Puzzle",
+        "description": "Place and clear blocks in this satisfying and addictive puzzle game.",
         "url": "https://raw.githack.com/reunbozdo/BlockBlast/main/index.html",
         "thumb": "blockblast.png"
     },
     {
         "id": "box-r",
         "title": "Boxing Random",
+        "category": "Sports",
+        "genre": "Fighting / Physics",
+        "description": "Chaotic physics-based boxing with random characters and funny moments.",
         "url": "https://raw.githack.com/ubg98/BoxingRandom/gh-pages/index.html",
         "thumb": "boxingrandom.png"
     },
     {
         "id": "crush",
         "title": "Candy Crush",
+        "category": "Puzzle",
+        "genre": "Match-3",
+        "description": "The classic match-3 puzzle game. Match candies to clear levels.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/candycrush.html",
         "thumb": "candycrush.png"
     },
     {
         "id": "au",
         "title": "Among Us",
+        "category": "Party",
+        "genre": "Social Deduction",
+        "description": "Complete tasks or sabotage as the impostor in this popular multiplayer game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/amongus.html",
         "thumb": "amongus.png"
     },
     {
         "id": "ab",
         "title": "Angry Birds",
+        "category": "Puzzle",
+        "genre": "Physics / Shooting",
+        "description": "Launch birds to destroy the pigs' structures in this classic physics game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/angrybirds.html",
         "thumb": "angrybirds.png"
     },
     {
         "id": "ctr",
         "title": "Cut the Rope",
+        "category": "Puzzle",
+        "genre": "Physics / Casual",
+        "description": "Feed candy to Om Nom by cutting ropes with perfect timing.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/cuttherope.html",
         "thumb": "cuttherope.png"
     },
     {
         "id": "dino",
         "title": "Google Dino",
+        "category": "Arcade",
+        "genre": "Endless Runner",
+        "description": "The famous offline Chrome Dino game. Run and jump over cacti!",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/googledino.html",
         "thumb": "dinogame.png"
     },
     {
         "id": "hj",
         "title": "Helix Jump",
+        "category": "Arcade",
+        "genre": "Skill / Casual",
+        "description": "Drop the ball through helix towers and break all platforms.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/helixjump.html",
         "thumb": "helixjump.png"
     },
     {
         "id": "rb",
         "title": "Retro Bowl",
+        "category": "Sports",
+        "genre": "American Football",
+        "description": "Manage your own American football team in this retro-style management game.",
         "url": "https://ballsretro.pages.dev/",
         "thumb": "retrobowl.png"
     },
     {
         "id": "sab",
         "title": "Stickman Archers",
+        "category": "Action",
+        "genre": "Physics Shooter",
+        "description": "Epic stickman archery battles with ragdoll physics.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/stickarchersbattle.html",
         "thumb": "stickarchersbattle.png"
     },
     {
         "id": "dc",
         "title": "Draw Climber",
+        "category": "Puzzle",
+        "genre": "Drawing / Physics",
+        "description": "Draw legs for your character to climb over obstacles.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/drawclimber.html",
         "thumb": "drawclimber.png"
     },
     {
         "id": "fnaf",
         "title": "FNAF",
+        "category": "Horror",
+        "genre": "Survival Horror",
+        "description": "Survive the night against animatronics in this iconic horror game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/fnaf.html",
         "thumb": "fnaf.png"
     },
     {
         "id": "dl",
         "title": "Duck Life",
+        "category": "Simulation",
+        "genre": "Racing / Training",
+        "description": "Train your duck to become the best racer in this fun series.",
         "url": "https://raw.githack.com/MDtowerz/duck-life-1/main/unity/index.html",
         "thumb": "ducklife1.png"
     },
     {
         "id": "dl2",
         "title": "Duck Life 2",
+        "category": "Simulation",
+        "genre": "Racing / Training",
+        "description": "Continue training your duck champion in the sequel.",
         "url": "https://raw.githack.com/BonziWorld1/DuckLife2/main/index.html",
         "thumb": "ducklife2.png"
     },
     {
         "id": "yohoho",
         "title": "YoHoHo.io",
+        "category": "Action",
+        "genre": "IO / Battle Royale",
+        "description": "Pirate .io game where you fight other players on islands.",
         "url": "https://yohoho--io.pages.dev/",
         "thumb": "yohoho.png"
     },
     {
         "id": "slice",
         "title": "Slice It All",
+        "category": "Arcade",
+        "genre": "Slicing / Casual",
+        "description": "Slice objects perfectly to reach the goal in this satisfying game.",
         "url": "https://raw.githack.com/hazzatazza/youtube-playables/main/slice-it-all/index.html",
         "thumb": "sliceitall.png"
     },
     {
         "id": "mc-classic",
         "title": "Minecraft Classic",
+        "category": "Adventure",
+        "genre": "Sandbox",
+        "description": "The original classic version of Minecraft playable in browser.",
         "url": "https://raw.githack.com/SajagIN/Minecraft-classic/main/index.html",
         "thumb": "minecraftclassic.png"
     },
     {
         "id": "dh",
         "title": "Drift Hunters",
+        "category": "Racing",
+        "genre": "Drifting",
+        "description": "Customize cars and master drifting on amazing tracks.",
         "url": "https://raw.githack.com/1000unblockedgames/DriftHunters/main/index.html",
         "thumb": "drifthunters.png"
     },
     {
         "id": "dj",
         "title": "Doodle Jump",
+        "category": "Arcade",
+        "genre": "Endless Jumper",
+        "description": "Jump higher and higher on platforms in this classic endless game.",
         "url": "https://raw.githack.com/bubbls/UGS-Assets/main/doodle%20jump/index.html",
         "thumb": "doodlejump.png"
     },
     {
         "id": "lmc",
         "title": "Little Master Cricket",
+        "category": "Sports",
+        "genre": "Cricket",
+        "description": "Fun cricket game where you play as the little master.",
         "url": "https://raw.githack.com/ovo-gamez-unblocked/little-master-cricket/main/index.html",
         "thumb": "littlemastercricket.png"
     },
     {
         "id": "snk-is",
         "title": "Snake.is",
+        "category": "Strategy",
+        "genre": "IO / Snake",
+        "description": "Modern .io version of the classic snake game.",
         "url": "https://raw.githack.com/hazzatazza/snake.is/main/index.html",
         "thumb": "snakeis.png"
     },
     {
         "id": "snk-mlg",
         "title": "Snake.is MLG",
+        "category": "Strategy",
+        "genre": "IO / Snake",
+        "description": "MLG edition of Snake.is with funny memes and effects.",
         "url": "https://raw.githack.com/gameinclassroom/snake-is-mlg-edition/main/index.html",
         "thumb": "snakeismlg.png"
     },
     {
         "id": "inf-cra",
         "title": "Infinite Craft",
+        "category": "Puzzle",
+        "genre": "Crafting",
+        "description": "Combine elements to create everything in this addictive crafting game.",
         "url": "https://infin-craft.pages.dev/",
         "thumb": "infinitecraft.png"
     },
     {
         "id": "suika",
         "title": "Suika Game",
+        "category": "Puzzle",
+        "genre": "Merging / Physics",
+        "description": "Merge fruits to create bigger ones. The viral Japanese merging game.",
         "url": "https://raw.githack.com/hazzatazza/suikar/main/index.html",
         "thumb": "suikagame.png"
     },
     {
         "id": "googcric",
         "title": "Google Doodle Cricket",
+        "category": "Sports",
+        "genre": "Cricket",
+        "description": "Fun cricket game from Google Doodle.",
         "url": "https://raw.githack.com/mohanrajr1987/cricket/master/index.html",
         "thumb": "googlecricket.png"
     },
     {
         "id": "aquaio",
         "title": "Aquapark.io",
+        "category": "Racing",
+        "genre": "IO / Racing",
+        "description": "Slide down water slides and push others off in this .io game.",
         "url": "https://raw.githack.com/bubbls/youtube-playables/main/aquapark-io/index.html",
         "thumb": "aquaparkio.png"
     },
     {
         "id": "racemast",
         "title": "Race Master 3D",
+        "category": "Racing",
+        "genre": "3D Racing",
+        "description": "Compete in fun 3D racing levels with different cars.",
         "url": "https://raw.githack.com/hazzatazza/youtube-playables/main/race-master-3d/index.html",
         "thumb": "racemaster3d.png"
     },
     {
         "id": "ovo",
         "title": "OvO",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "Challenging platformer with smooth controls and difficult levels.",
         "url": "https://raw.githack.com/hazzatazza/OvO/main/index.html",
         "thumb": "ovo.png"
     },
     {
         "id": "basbat",
         "title": "Basket Battle",
+        "category": "Sports",
+        "genre": "Basketball / Physics",
+        "description": "Physics-based basketball battles against opponents.",
         "url": "https://raw.githack.com/hazzatazza/youtube-playables/main/basket-battle/index.html",
         "thumb": "basketbattle.png"
     },
     {
         "id": "spiroll",
         "title": "Spiral Roll",
+        "category": "Puzzle",
+        "genre": "Casual / Physics",
+        "description": "Roll the spiral and collect items in this relaxing puzzle game.",
         "url": "https://raw.githack.com/my-files-schoolum/spi/main/index.html",
         "thumb": "spiralroll.png"
     },
     {
         "id": "timshoot",
         "title": "Time Shooter",
+        "category": "Action",
+        "genre": "Shooter",
+        "description": "Stop time and strategically shoot enemies in slow motion.",
         "url": "https://raw.githack.com/hazzatazza/time-shooter/main/index.html",
         "thumb": "timeshooter.png"
     },
     {
         "id": "bloxorz",
         "title": "Bloxorz",
+        "category": "Puzzle",
+        "genre": "Block Puzzle",
+        "description": "Roll the block into the hole by solving clever 3D puzzles.",
         "url": "https://raw.githack.com/ubg89/Bloxorz/gh-pages/index.html",
         "thumb": "bloxorz.png"
     },
     {
         "id": "brain-test",
         "title": "Brain Test",
+        "category": "Puzzle",
+        "genre": "Brain Teaser",
+        "description": "Solve tricky puzzles that require thinking outside the box.",
         "url": "https://raw.githack.com/gameinclassroom/brain-test-tricky-puzzles/main/index.html",
         "thumb": "braintest.png"
     },
     {
         "id": "drive-mad",
         "title": "Drive Mad",
+        "category": "Racing",
+        "genre": "Stunt / Physics",
+        "description": "Drive through impossible obstacle courses in this physics car game.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/singlefileoffline/drivemad.htm",
         "thumb": "drivemad.png"
     },
     {
         "id": "8-ball",
         "title": "8 Ball Pool",
+        "category": "Sports",
+        "genre": "Pool / Billiards",
+        "description": "Classic 8 ball pool with realistic physics.",
         "url": "https://raw.githack.com/ahrdevelopers/8ball-pool/main/index.html",
         "thumb": "8ballpool.png"
     },
     {
         "id": "aswc",
         "title": "A Small World Cup",
+        "category": "Sports",
+        "genre": "Soccer / Physics",
+        "description": "Tiny players playing chaotic soccer matches.",
         "url": "https://raw.githack.com/ahrdevelopers/a-small-world-cup/main/index.html",
         "thumb": "asmallworldcup.png"
     },
     {
         "id": "colsw",
         "title": "Color Switch",
+        "category": "Arcade",
+        "genre": "Skill / Casual",
+        "description": "Change colors at the right moment to pass through gates.",
         "url": "https://raw.githack.com/ahrdevelopers/color-switch/main/index.html",
         "thumb": "colorswitch.png"
     },
     {
         "id": "hapgla",
         "title": "Happy Glass",
+        "category": "Puzzle",
+        "genre": "Drawing / Physics",
+        "description": "Draw lines to fill the glass with water.",
         "url": "https://raw.githack.com/class-google-com/google-1/main/index.html",
         "thumb": "happyglass.png"
     },
     {
         "id": "tapot",
         "title": "Throw A Potato",
+        "category": "Arcade",
+        "genre": "Casual / Physics",
+        "description": "Throw potatoes as far as possible in this fun physics game.",
         "url": "https://raw.githack.com/hazzatazza/throw-a-potato/main/index.html",
         "thumb": "throwapotato.png"
     },
     {
         "id": "tapot2",
         "title": "Throw A Potato Again",
+        "category": "Arcade",
+        "genre": "Casual / Physics",
+        "description": "Even more potato throwing fun with new levels.",
         "url": "https://raw.githack.com/hazzatazza/throw-a-potato-again/main/index.html",
         "thumb": "throwapotatoagain.png"
     },
     {
         "id": "tapot3",
         "title": "Throw A Potato In Space",
+        "category": "Arcade",
+        "genre": "Casual / Physics",
+        "description": "Throw potatoes in space in this cosmic version of the game.",
         "url": "https://raw.githack.com/hazzatazza/hazzas-ripped-game-testing/main/throwspace3/html-classic.itch.zone/html/7355361/index.html",
         "thumb": "throwapotatoinspace.png"
     },
     {
         "id": "sonic1",
         "title": "Sonic The Hedgehog",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "Play as Sonic in the classic Sega platformer.",
         "url": "https://raw.githack.com/hazzatazza/sonic1/main/index.html",
         "thumb": "sonicthehedgehog.png"
     },
     {
         "id": "celeste",
         "title": "Celeste",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "Beautiful and challenging precision platformer with an inspiring story.",
         "url": "https://raw.githack.com/hazzatazza/celeste/main/index.html",
         "thumb": "celeste.png"
     },
     {
         "id": "joeblox",
         "title": "Joeblox",
+        "category": "Adventure",
+        "genre": "Roblox-like",
+        "description": "Fun Roblox-style obby and tycoon game.",
         "url": "https://raw.githack.com/hazzatazza/roblox-games/main/*actualjoeblox.html",
         "thumb": "joeblox.png"
     },
     {
         "id": "dune",
         "title": "Dune Neon",
+        "category": "Racing",
+        "genre": "Endless Runner",
+        "description": "Neon-style endless dune buggy racing game.",
         "url": "https://raw.githack.com/playgroundfree/playgroundfree.github.io/main/dune/index.html",
         "thumb": "dune.png"
     },
     {
         "id": "fmidsh",
         "title": "Famidash",
+        "category": "Action",
+        "genre": "Rhythm Platformer",
+        "description": "Geometry Dash style game with famitracker music.",
         "url": "https://raw.githack.com/hazzatazza/stuff-it-emu/main/famidash.html",
         "thumb": "famidash.png"
     },
     {
         "id": "gdsubzero",
         "title": "Geometry Dash Subzero",
+        "category": "Action",
+        "genre": "Rhythm Platformer",
+        "description": "Official Geometry Dash Subzero levels in browser.",
         "url": "https://raw.githack.com/marty-games/mga-unity/main/geometry-dash-subzero/index.html",
         "thumb": "gdsubzero.png"
     },
     {
         "id": "gdmeltdown",
         "title": "Geometry Dash Meltdown",
+        "category": "Action",
+        "genre": "Rhythm Platformer",
+        "description": "Official Geometry Dash Meltdown levels.",
         "url": "https://raw.githack.com/marty-games/mga-unity/main/geometry-dash-meltdown/index.html",
         "thumb": "gdmeltdown.png"
     },
     {
         "id": "gdworld",
         "title": "Geometry Dash World",
+        "category": "Action",
+        "genre": "Rhythm Platformer",
+        "description": "Official Geometry Dash World levels in browser.",
         "url": "https://raw.githack.com/marty-games/mga-unity/main/geometry-dash-world/index.html",
         "thumb": "gdworld.png"
     },
     {
         "id": "gdbreeze",
         "title": "Geometry Dash Breeze",
+        "category": "Action",
+        "genre": "Rhythm Platformer",
+        "description": "Fan-made Geometry Dash Breeze levels.",
         "url": "https://raw.githack.com/marty-games/mga-unity/main/geometry-dash-breeze/index.html",
         "thumb": "gdbreeze.png"
     },
     {
         "id": "knihit",
         "title": "Knife Hit",
+        "category": "Arcade",
+        "genre": "Skill / Casual",
+        "description": "Throw knives at spinning targets and avoid hitting other knives.",
         "url": "https://raw.githack.com/marty-games/mga-construct/main/knife-hit/index.html",
         "thumb": "knifehit.png"
     },
     {
         "id": "slowroad",
         "title": "Slowroads.io",
+        "category": "Racing",
+        "genre": "Driving / Relaxing",
+        "description": "Relaxing endless driving game with beautiful scenery.",
         "url": "https://script.google.com/macros/s/AKfycbzqDA2SnuVZ3DRelxxbUxSV9Z1RJz_gQfDRx06WUpgppWgrdDEErtZ1Lev9O6j2w9ioBQ/exec",
         "thumb": "slowroads.png"
     },
     {
         "id": "stack",
         "title": "Stack",
+        "category": "Arcade",
+        "genre": "Stacking",
+        "description": "Stack blocks as high as possible without falling.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/stack.html",
         "thumb": "stack.png"
     },
     {
         "id": "simian",
         "title": "Simian City",
+        "category": "Simulation",
+        "genre": "City Builder",
+        "description": "Build and manage your own monkey city.",
         "url": "https://raw.githack.com/hazzatazza/simian-city/main/simiancity.html",
         "thumb": "simpcity.png"
     },
     {
         "id": "whg",
         "title": "Worlds Hardest Game",
+        "category": "Puzzle",
+        "genre": "Platformer / Challenge",
+        "description": "One of the hardest games ever made. Can you beat it?",
         "url": "https://raw.githack.com/CoolDude2349/Offline-HTML-Games-Pack/master/offline/worldshardestgame.html",
         "thumb": "worldshardestgame.png"
     },
     {
         "id": "pacman",
         "title": "Pac-Man",
+        "category": "Arcade",
+        "genre": "Classic Arcade",
+        "description": "The legendary classic Pac-Man game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/pacman.html",
         "thumb": "pacman.png"
     },
     {
         "id": "agar",
         "title": "Agar.io Lite",
+        "category": "Strategy",
+        "genre": "IO / Survival",
+        "description": "Eat dots and other players to grow bigger in this lite version.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/agariolite.html",
         "thumb": "agariolite.png"
     },
     {
         "id": "vrandom",
         "title": "Volley Random",
+        "category": "Sports",
+        "genre": "Volleyball / Physics",
+        "description": "Physics-based volleyball with random funny characters.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/volleyrandom.html",
         "thumb": "volleyrandom.png"
     },
     {
         "id": "er2",
         "title": "Escape Road 2",
+        "category": "Racing",
+        "genre": "Driving / Survival",
+        "description": "Escape from police in this sequel with better graphics.",
         "url": "https://raw.githack.com/ubg42/EscapeRoad2/main/index.html",
         "thumb": "escaperoad2.png"
     },
     {
         "id": "mx3mpp",
         "title": "Moto X3M Pool Party",
+        "category": "Racing",
+        "genre": "Bike / Stunt",
+        "description": "Moto X3M Pool Party edition with water obstacles.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/motox3mpoolparty.html",
         "thumb": "motox3mpoolparty.png"
     },
     {
         "id": "fnaf2",
         "title": "FNAF 2",
+        "category": "Horror",
+        "genre": "Survival Horror",
+        "description": "The terrifying sequel to the original Five Nights at Freddy's.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/fnaf2.html",
         "thumb": "fnaf2.png"
     },
     {
         "id": "ovo2",
         "title": "OvO 2",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "The harder sequel to the popular platformer OvO.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/ovo2.html",
         "thumb": "ovo2.png"
     },
     {
         "id": "stateio",
         "title": "State.io",
+        "category": "Strategy",
+        "genre": "War / IO",
+        "description": "Conquer states in this fun strategy .io game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/stateio.html",
         "thumb": "stateio.png"
     },
     {
         "id": "mcb",
         "title": "Mini Car Ball",
+        "category": "Sports",
+        "genre": "Soccer / Physics",
+        "description": "Tiny cars playing football in this fun physics game.",
         "url": "https://raw.githack.com/CoolDude2349/everything/dd78353b89cf9559b4b3463d1b44fb60e420d9fa/minicarball/index.html",
         "thumb": "minicarball.png"
     },
     {
         "id": "appel",
         "title": "Appel",
+        "category": "Arcade",
+        "genre": "Endless Runner",
+        "description": "Simple but addictive apple collecting runner.",
         "url": "https://raw.githack.com/CoolDude2349/everything/dd78353b89cf9559b4b3463d1b44fb60e420d9fa/appel/index.html",
         "thumb": "appel.png"
     },
     {
         "id": "tilejump",
         "title": "Tile Jumper",
+        "category": "Arcade",
+        "genre": "Endless Jumper",
+        "description": "Jump on tiles and go as high as possible.",
         "url": "https://raw.githack.com/CoolDude2349/everything/dd78353b89cf9559b4b3463d1b44fb60e420d9fa/tilejumperr/index.html",
         "thumb": "tilejumper.png"
     },
     {
         "id": "golfbattle",
         "title": "Golf Battle",
+        "category": "Sports",
+        "genre": "Golf / Multiplayer",
+        "description": "Compete in real-time golf battles against other players.",
         "url": "https://raw.githack.com/hazzatazza/golf-battle/main/samething.html",
         "thumb": "golfbattle.png"
     },
     {
         "id": "roofsnip",
         "title": "Rooftop Snipers",
+        "category": "Action",
+        "genre": "Shooter",
+        "description": "Snipe opponents from rooftops in this fun physics shooter.",
         "url": "https://raw.githack.com/hazzatazza/RooftopSnipers/gh-pages/index.html",
         "thumb": "rooftopsnipers.png"
     },
     {
         "id": "granny",
         "title": "Granny",
+        "category": "Horror",
+        "genre": "Escape / Horror",
+        "description": "Escape from Granny's house before she catches you.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/granny.html",
         "thumb": "granny1.png"
     },
     {
         "id": "goose",
         "title": "Untitled Goose Game",
+        "category": "Adventure",
+        "genre": "Puzzle / Stealth",
+        "description": "Be a chaotic goose and cause mayhem in the village.",
         "url": "https://raw.githack.com/web-ports/untitled-goose-game/main/index.html",
         "thumb": "goosegame.png"
     },
     {
         "id": "brotato",
         "title": "Brotato",
+        "category": "Action",
+        "genre": "Roguelike / Shooter",
+        "description": "Survive waves as a potato with various weapons and abilities.",
         "url": "https://raw.githack.com/Stinkalistic/UGS/main/MISC/brotato/index.html",
         "thumb": "brotato.png"
     },
     {
         "id": "ragdoll",
         "title": "Ragdoll Archers",
+        "category": "Action",
+        "genre": "Physics Shooter",
+        "description": "Ragdoll archery battles with hilarious physics.",
         "url": "https://raw.githack.com/ubg42/RagdollArchers/main/index.html",
         "thumb": "ragdollarchers.png"
     },
     {
         "id": "fnaf3",
         "title": "FNAF 3",
+        "category": "Horror",
+        "genre": "Survival Horror",
+        "description": "The third installment of the terrifying FNAF series.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/fnaf3.html",
         "thumb": "fnaf3.png"
     },
     {
         "id": "schooesc",
         "title": "School Escape",
+        "category": "Puzzle",
+        "genre": "Escape Room",
+        "description": "Escape from school in this fun escape game.",
         "url": "https://raw.githack.com/hazzatazza/simian-city/main/schoolescape.html",
         "thumb": "schoolescape.png"
     },
     {
         "id": "agewar",
         "title": "Age Of War",
+        "category": "Strategy",
+        "genre": "Tower Defense / RTS",
+        "description": "Evolve your civilization through different ages and conquer enemies.",
         "url": "https://raw.githack.com/ahrdevelopers/age-of-war/main/index.html",
         "thumb": "ageofwar.png"
     },
     {
         "id": "monkeobby",
         "title": "Monkey Obby",
+        "category": "Action",
+        "genre": "Obby / Platformer",
+        "description": "Fun obstacle course game with monkeys.",
         "url": "https://raw.githack.com/hazzatazza/algebra-originals/main/monkeyobby.html",
         "thumb": "monkeyobby.png"
     },
     {
         "id": "supliqsoc",
         "title": "Super Liquid Soccer",
+        "category": "Sports",
+        "genre": "Soccer / Physics",
+        "description": "Liquid physics soccer with funny characters.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/superliquidsoccer.html",
         "thumb": "superliquidsoccer.png"
     },
     {
         "id": "guessanswer",
         "title": "Guess Their Answer",
+        "category": "Party",
+        "genre": "Quiz / Party",
+        "description": "Fun party game where you guess what others will answer.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/guesstheiranswer.html",
         "thumb": "guessanswer.png"
     },
     {
         "id": "pokeemer",
         "title": "Pokemon Emerald",
+        "category": "Adventure",
+        "genre": "RPG / Pokemon",
+        "description": "Classic Pokemon Emerald game playable in browser.",
         "url": "https://raw.githack.com/hazzatazza/stuff-it-emu/main/pokemonemerald.html",
         "thumb": "pokemonemerald.png"
     },
     {
         "id": "clashov",
         "title": "Clash Of Vikings",
+        "category": "Strategy",
+        "genre": "Tower Defense",
+        "description": "Defend your village from vikings in this strategy game.",
         "url": "https://raw.githack.com/testingherokuapp/Clash-of-Vikings/main/index.html",
         "thumb": "clashofvikings.png"
     },
     {
         "id": "fnaf4",
         "title": "FNAF 4",
+        "category": "Horror",
+        "genre": "Survival Horror",
+        "description": "The scariest FNAF game yet - survive the nights at home.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/fnaf4.html",
         "thumb": "fnaf4.png"
     },
     {
         "id": "icetow",
         "title": "Ice Tower",
+        "category": "Arcade",
+        "genre": "Tower Defense",
+        "description": "Build and upgrade your ice tower to defend against waves.",
         "url": "https://raw.githack.com/hazzatazza/algebra-originals/main/Ice%20tower%20(1).html",
         "thumb": "icetower.png"
     },
     {
         "id": "supmario1",
         "title": "Super Mario Bros.",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "The classic Super Mario Bros. game.",
         "url": "https://raw.githack.com/hazzatazza/stuff-it-emu/main/supermariobros.html",
         "thumb": "supermariobros.png"
     },
     {
         "id": "supermariokart",
         "title": "Super Mario Kart",
+        "category": "Racing",
+        "genre": "Kart Racing",
+        "description": "Classic Mario Kart racing with all your favorite characters.",
         "url": "https://raw.githack.com/hazzatazza/stuff-it-emu/main/supermariokart.html",
         "thumb": "supermariokart.png"
     },
     {
         "id": "thoandball",
         "title": "Thorns And Balloons",
+        "category": "Arcade",
+        "genre": "Skill / Casual",
+        "description": "Pop balloons while avoiding thorns in this tricky game.",
         "url": "https://raw.githack.com/hazzatazza/hazzas-ripped-game-testing/main/thronballoon2/maddox.alltutors.org/db/html/thorns_and_ballons/index.html",
         "thumb": "thornsandballoons.png"
     },
     {
         "id": "badtime",
         "title": "Bad Time Simulator",
+        "category": "Action",
+        "genre": "Bullet Hell / Challenge",
+        "description": "Extremely difficult Undertale-inspired bullet hell challenge.",
         "url": "https://raw.githack.com/hsinidev/badtimesimulator/master/index.html",
         "thumb": "badtimesimulator.png"
     },
     {
         "id": "stackball",
         "title": "Stack Fire Ball",
+        "category": "Arcade",
+        "genre": "Skill / Casual",
+        "description": "Destroy colorful towers with your bouncing fire ball.",
         "url": "https://raw.githack.com/ahrdevelopers/stack-fire-ball/main/index.html",
         "thumb": "stackball.png"
     },
     {
         "id": "sandtris",
         "title": "Sandtris",
+        "category": "Puzzle",
+        "genre": "Physics / Sand",
+        "description": "Tetris but with physics-based sand simulation.",
         "url": "https://raw.githack.com/Kochhan/SANDTRIS/main/index.html",
         "thumb": "sandtris.png"
     },
     {
         "id": "dleo",
         "title": "Dont Let Ehren Out",
+        "category": "Puzzle",
+        "genre": "Escape / Challenge",
+        "description": "Keep Ehren trapped with clever puzzles.",
         "url": "https://raw.githack.com/hazzatazza/algebra-originals/main/dontletenrenout.html",
         "thumb": "dontletehrenout.png"
     },
     {
         "id": "blumball",
         "title": "Blumgi Ball",
+        "category": "Sports",
+        "genre": "Soccer / Physics",
+        "description": "Physics-based soccer with stretchy characters.",
         "url": "https://raw.githack.com/gameinclassroom/blumgi-ball/main/index.html",
         "thumb": "blumgiballnew.png"
     },
     {
         "id": "snowballio",
         "title": "Snowball.io",
+        "category": "Arcade",
+        "genre": "IO / Battle Royale",
+        "description": "Roll your snowball and become the biggest in this .io game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/snowballio.html",
         "thumb": "snowballio.png"
     },
     {
         "id": "hcrlite",
         "title": "Hill Climb Racing Lite",
+        "category": "Racing",
+        "genre": "Driving / Stunt",
+        "description": "Drive and perform stunts in this popular hill climb game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/hillclimbracinglite.html",
         "thumb": "hillclimbracing.png"
     },
     {
         "id": "eggycar",
         "title": "Eggy Car",
+        "category": "Racing",
+        "genre": "Driving / Physics",
+        "description": "Drive while keeping the egg safe in this physics driving game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/eggycar.html",
         "thumb": "eggycar.png"
     },
     {
         "id": "backchal",
         "title": "Backflip Challenge",
+        "category": "Sports",
+        "genre": "Stunt / Skill",
+        "description": "Perform perfect backflips and land cleanly.",
         "url": "https://raw.githack.com/hazzatazza/hazzas-ripped-game-testing/main/backflipchallenge/maddox.quackprep.com/db2/2026/unity/backflip-challenge/index.html",
         "thumb": "backflipchallenge.png"
     },
     {
         "id": "bubshoot",
         "title": "Bubble Shooter",
+        "category": "Puzzle",
+        "genre": "Match-3 / Shooter",
+        "description": "Classic bubble shooting puzzle game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/bubbleshooter.html",
         "thumb": "bubbleshooter.png"
     },
     {
         "id": "1on1soc",
         "title": "1 On 1 Soccer",
+        "category": "Sports",
+        "genre": "Soccer / 1v1",
+        "description": "1v1 soccer matches with simple controls.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/1on1soccer.html",
         "thumb": "1on1soccer.png"
     },
     {
         "id": "aow2",
         "title": "Age Of War 2",
+        "category": "Strategy",
+        "genre": "Tower Defense / RTS",
+        "description": "Evolve through ages and conquer in this improved sequel.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/ageofwar2.html",
         "thumb": "ageofwar2.png"
     },
     {
         "id": "swingdash",
         "title": "Swing Dash",
+        "category": "Action",
+        "genre": "Platformer / Swing",
+        "description": "Swing and dash through challenging platform levels.",
         "url": "https://raw.githack.com/hazzatazza/algebra-originals/main/swingdash.html",
         "thumb": "swingdash.png"
     },
     {
         "id": "gdfreeze",
         "title": "Geometry Dash Freezenova",
+        "category": "Action",
+        "genre": "Rhythm Platformer",
+        "description": "Geometry Dash Freezenova fan levels.",
         "url": "https://raw.githack.com/hazzatazza/hazzas-ripped-game-testing/main/freezenovat2/d23tskfudfp1j.cloudfront.net/games/2023/q2/geometry-dash-freezenova/index.html",
         "thumb": "gdfreezenova.png"
     },
     {
         "id": "monstertrack",
         "title": "Monster Tracks",
+        "category": "Racing",
+        "genre": "Monster Truck",
+        "description": "Drive monster trucks over insane tracks.",
         "url": "https://raw.githack.com/gameinclassroom/monster-tracks/main/index.html",
         "thumb": "monstertracks.png"
     },
     {
         "id": "swingcopters",
         "title": "Swing Copters",
+        "category": "Arcade",
+        "genre": "Skill / Casual",
+        "description": "Flappy Bird style game but with a helicopter propeller.",
         "url": "https://raw.githack.com/hazzatazza/hazzas-ripped-game-testing/main/swingcopters/www.minijuegosgratis.com/v3/games/games/prod/204939/swing-copters-online-api/index.html",
         "thumb": "swingcopters.png"
     },
     {
         "id": "surivivalarena",
         "title": "Survival Arena",
+        "category": "Action",
+        "genre": "Survival / Racing",
+        "description": "Survive and race in this arena battle game.",
         "url": "https://raw.githack.com/bubbls/UGS-Assets/main/survival%20race%20v2/index.html",
         "thumb": "survivalarena.png"
     },
     {
         "id": "cubesurf",
         "title": "Cube Surfer",
+        "category": "Arcade",
+        "genre": "Endless Runner",
+        "description": "Surf on cubes and collect more to grow longer.",
         "url": "https://raw.githack.com/hazzatazza/hazzas-ripped-game-testing/main/cubesurfer/lagged.com/build/mj/cube-surfer/index.html",
         "thumb": "cubesurfer.png"
     },
     {
         "id": "dashmetry",
         "title": "Dashmetry",
+        "category": "Action",
+        "genre": "Rhythm Platformer",
+        "description": "Geometry Dash style rhythm platformer.",
         "url": "https://raw.githack.com/marty-games/mga-unity/main/dashmetry/index.html",
         "thumb": "dashmetry.png"
     },
     {
         "id": "jetskirace",
         "title": "Jetski Race",
+        "category": "Racing",
+        "genre": "Jet Ski Racing",
+        "description": "High speed jet ski racing with stunts.",
         "url": "https://raw.githack.com/hazzatazza/the-one-with-tap-road/main/jetskirace/index.html",
         "thumb": "jetskirace.png"
     },
     {
         "id": "rl2d",
         "title": "Rocket League 2D",
+        "category": "Sports",
+        "genre": "Soccer / Cars",
+        "description": "2D version of the popular Rocket League.",
         "url": "https://script.google.com/macros/s/AKfycbzxpyljaqvmqRShvfh_XpN8ZRRpLRCeYHZ0V-9ZoC4wf0pFHWFfgQQM-o1o-Q7pc3qAwg/exec",
         "thumb": "rocketleague2d.png"
     },
     {
         "id": "webdash",
         "title": "Geometry Dash Webport",
+        "category": "Action",
+        "genre": "Rhythm Platformer",
+        "description": "Full Geometry Dash web port with many levels.",
         "url": "https://raw.githack.com/web-dashers/web-dashers.github.io/main/index.html",
         "thumb": "gdweb.png"
     },
     {
         "id": "melon",
         "title": "Melon Playground",
+        "category": "Simulation",
+        "genre": "Physics Sandbox",
+        "description": "Ragdoll physics sandbox game similar to People Playground.",
         "url": "https://raw.githack.com/hazzatazza/google-class/main/melon-playground/index.html",
         "thumb": "melonplayground.png"
     },
     {
         "id": "dwtd",
         "title": "Dumb Ways To Die",
+        "category": "Arcade",
+        "genre": "Casual / Mini Games",
+        "description": "Avoid dying in hilarious ways in this classic mini-game collection.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/flash%20games/dwtd.html",
         "thumb": "dwtd.png"
     },
     {
         "id": "tnmn",
         "title": "Thats Not My Neighbor",
+        "category": "Puzzle",
+        "genre": "Horror / Deduction",
+        "description": "Check IDs and spot doppelgangers in this creepy door security game.",
         "url": "https://raw.githack.com/genizy/web-port/main/thats-not-my-neighbor/index.html",
         "thumb": "tnmn.png"
     },
     {
         "id": "cuphead",
         "title": "Cuphead",
+        "category": "Action",
+        "genre": "Run & Gun / Boss Rush",
+        "description": "Classic run and gun boss battles with beautiful hand-drawn animation.",
         "url": "https://raw.githack.com/web-ports/cuphead/main/index.html",
         "thumb": "cuphead.png"
     },
     {
         "id": "ninja5",
         "title": "The Ninja 5",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "Play as a ninja in this action platformer.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/scratch/The%20Ninja%205.html",
         "thumb": "ninja5.png"
     },
     {
         "id": "dunedash",
         "title": "Dune",
+        "category": "Racing",
+        "genre": "Endless Runner",
+        "description": "High speed dune buggy racing in neon environments.",
         "url": "https://raw.githack.com/hazzatazza/dune-dash/main/index.html",
         "thumb": "dunedash.png"
     },
     {
         "id": "coreball",
         "title": "Coreball",
+        "category": "Puzzle",
+        "genre": "Skill / Casual",
+        "description": "Hit the core with balls at the perfect angle.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/multifile/coreball/index.html",
         "thumb": "coreball.png"
     },
     {
         "id": "bridge",
         "title": "Bridge Race",
+        "category": "Arcade",
+        "genre": "IO / Racing",
+        "description": "Collect tiles and build bridges faster than others.",
         "url": "https://raw.githack.com/hazzatazza/youtube-playables/main/bridge-race/index.html",
         "thumb": "bridgerace.png"
     },
     {
         "id": "pppg",
         "title": "People Playground",
+        "category": "Simulation",
+        "genre": "Physics Sandbox",
+        "description": "Violent ragdoll physics sandbox with many weapons and experiments.",
         "url": "https://raw.githack.com/bubbls/ugss/main/people-playground/index.html",
         "thumb": "pppg.png"
     },
     {
         "id": "rtrobwlcol",
         "title": "Retro Bowl College",
+        "category": "Sports",
+        "genre": "American Football",
+        "description": "College version of the popular Retro Bowl management game.",
         "url": "https://raw.githack.com/ahrdevelopers/retro-bowl-college/main/index.html",
         "thumb": "rtrocollege.png"
     },
     {
         "id": "dadish2",
         "title": "Dadish 2",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "Dadish sequel with new levels and challenges.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/dadish2.html",
         "thumb": "dadish2.png"
     },
     {
         "id": "stackbird",
         "title": "Stacky Bird",
+        "category": "Arcade",
+        "genre": "Endless Jumper",
+        "description": "Stack platforms and flap through challenging levels as a bird.",
         "url": "https://raw.githack.com/hazzatazza/stackybird/main/stackybird.io/index.html",
         "thumb": "stackybird.png"
     },
     {
         "id": "golforbit",
         "title": "Golf Orbit",
+        "category": "Sports",
+        "genre": "Golf / Physics",
+        "description": "Launch the golf ball into orbit with perfect power and angle.",
         "url": "https://raw.githack.com/hazzatazza/golf-orbit/main/GolfOrbit-main/index.html",
         "thumb": "golforbit.png"
     },
     {
         "id": "brawlsim3d",
         "title": "Brawl Simulator 3D",
+        "category": "Action",
+        "genre": "Fighting / Simulator",
+        "description": "3D brawl simulator with various characters and weapons.",
         "url": "https://raw.githack.com/hazzatazza/brawl-simulator-3d/main/index.html",
         "thumb": "brawlsim3d.png"
     },
     {
         "id": "getyoked",
         "title": "Get Yoked",
+        "category": "Simulation",
+        "genre": "Gym / Casual",
+        "description": "Extreme bodybuilding simulator. Get absolutely yoked.",
         "url": "https://raw.githack.com/ahrdevelopers/get-yoked-extreme-bodybuilding/main/index.html",
         "thumb": "getyoked.png"
     },
     {
         "id": "dadish3",
         "title": "Dadish 3",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "The third Dadish adventure with more levels.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/singlefileoffline/dadish3.html",
         "thumb": "dadish3.png"
     },
     {
         "id": "dadish3d",
         "title": "Dadish 3D",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "3D version of the popular Dadish platformer.",
         "url": "https://raw.githack.com/hazzatazza/dadish3d/main/index.html",
         "thumb": "dadish3d.png"
     },
     {
         "id": "buckshot",
         "title": "Buckshot Roulette",
+        "category": "Horror",
+        "genre": "Horror / Strategy",
+        "description": "Intense Russian roulette horror game with psychological elements.",
         "url": "https://raw.githack.com/genizy/web-port/main/buckshot-roulette/index.html",
         "thumb": "buckshot.png"
     },
     {
         "id": "backdive3d",
         "title": "Backflip Dive 3D",
+        "category": "Sports",
+        "genre": "Stunt / Diving",
+        "description": "Perform perfect backflip dives in 3D.",
         "url": "https://raw.githack.com/hazzatazza/hazzas-ripped-game-testing/main/backflipdive3d/d23tskfudfp1j.cloudfront.net/games/2025/unity4/backflip-dive-3d/index.html",
         "thumb": "backdive3d.png"
     },
     {
         "id": "stuntcars2",
         "title": "Madalin Stunt Cars 2",
+        "category": "Racing",
+        "genre": "Stunt / Open World",
+        "description": "Perform insane stunts in an open world with many cars.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/madalinstuntcars2.html",
         "thumb": "madalincars2.png"
     },
     {
         "id": "baldisbasics",
         "title": "Baldis Basics",
+        "category": "Horror",
+        "genre": "Survival Horror",
+        "description": "Survive school with the creepy teacher Baldi.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/baldisbasics.html",
         "thumb": "baldisbasics.png"
     },
     {
         "id": "granny2",
         "title": "Granny 2",
+        "category": "Horror",
+        "genre": "Escape / Horror",
+        "description": "Escape from Granny and Grandpa's house.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/granny2.html",
         "thumb": "granny2.png"
     },
     {
         "id": "rooftopsnipers2",
         "title": "Rooftop Snipers 2",
+        "category": "Action",
+        "genre": "Shooter",
+        "description": "More rooftop sniping action with new weapons and maps.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/rooftopsnipers2.html",
         "thumb": "roogtopsnipers2.png"
     },
     {
         "id": "sm",
         "title": "Slice Master",
+        "category": "Arcade",
+        "genre": "Slicing / Casual",
+        "description": "Slice objects perfectly in this satisfying slicing game.",
         "url": "https://raw.githack.com/bubbls/UGS-Assets/main/slice-master/index.html",
         "thumb": "slicemaster.png"
     },
     {
         "id": "dhp",
         "title": "Dreadhead Parkour",
+        "category": "Action",
+        "genre": "Parkour / Obby",
+        "description": "Parkour challenges with a dreadhead character.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/dreadheadparkour.html",
         "thumb": "dreadheadparkour.png"
     },
     {
         "id": "rsd",
         "title": "Rocket Soccer Derby",
+        "category": "Sports",
+        "genre": "Soccer / Cars",
+        "description": "Rocket-powered soccer derby with crazy vehicles.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/rocketsoccerderby.html",
         "thumb": "rocketsoccerderby.png"
     },
     {
         "id": "wbw",
         "title": "We Become What We Behold",
+        "category": "Simulation",
+        "genre": "Social Experiment",
+        "description": "Short but powerful social simulation game about media and society.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/webecomewhatwebehold.html",
         "thumb": "webecomewhatwebehold.png"
     },
     {
         "id": "tr2",
         "title": "Temple Run 2",
+        "category": "Action",
+        "genre": "Endless Runner",
+        "description": "The sequel to the famous endless running Temple Run.",
         "url": "https://raw.githack.com/genizy/google-class/main/temple-run-2/index.html",
         "thumb": "templerun2.png"
     },
     {
         "id": "tj",
         "title": "Tube Jumpers",
+        "category": "Arcade",
+        "genre": "Party / Multiplayer",
+        "description": "Jump on tubes and knock others off in this fun party game.",
         "url": "https://raw.githack.com/ven0m2610/tube-jumpers-ven0m/d7e473d1bbb19c421a23516ef2202bda21e8c3f0/index.html",
         "thumb": "tubejumpers.png"
     },
     {
         "id": "pvz",
         "title": "Plants vs Zombies",
+        "category": "Strategy",
+        "genre": "Tower Defense",
+        "description": "The classic tower defense game where plants defend against zombies.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/plantsvszombies.html",
         "thumb": "plantsvszombies.png"
     },
     {
         "id": "bbros",
         "title": "Baseball Bros",
+        "category": "Sports",
+        "genre": "Baseball / Physics",
+        "description": "Physics-based baseball battles with bros.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/baseballbros.html",
         "thumb": "baseballbros.png"
     },
     {
         "id": "3dfs",
         "title": "3D Flight Simulator",
+        "category": "Simulation",
+        "genre": "Flight Simulator",
+        "description": "Realistic 3D flight simulation experience.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/3Dflightsimulator.html",
         "thumb": "3dflightsimulator.png"
     },
     {
         "id": "basketbros",
         "title": "Basket Bros",
+        "category": "Sports",
+        "genre": "Basketball / Multiplayer",
+        "description": "Multiplayer basketball with fun characters and physics.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/basketbros.html",
         "thumb": "basketbros.png"
     },
     {
         "id": "cc3d",
         "title": "Crazy Cattle 3D",
+        "category": "Arcade",
+        "genre": "IO / Battle",
+        "description": "Control crazy cattle in this chaotic 3D .io style game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/crazycattle3D.html",
         "thumb": "crazycattle3d.png"
     },
     {
         "id": "fbros",
         "title": "Football Bros",
+        "category": "Sports",
+        "genre": "Football / Physics",
+        "description": "Physics-based American football with bros.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/footballbros.html",
         "thumb": "footballbros.png"
     },
     {
         "id": "sbros",
         "title": "Soccer Bros",
+        "category": "Sports",
+        "genre": "Soccer / Physics",
+        "description": "Fun physics soccer with bros characters.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/soccerbros.html",
         "thumb": "soccerbros.png"
     },
     {
         "id": "ts2",
         "title": "Time Shooter 2",
+        "category": "Action",
+        "genre": "Shooter",
+        "description": "Stop time and take out enemies strategically in the sequel.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/timeshooter2.html",
         "thumb": "timeshooter2.png"
     },
     {
         "id": "ts3",
         "title": "Time Shooter 3",
+        "category": "Action",
+        "genre": "Shooter",
+        "description": "The latest Time Shooter with more levels and weapons.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/timeshooter3.htm",
         "thumb": "timeshooter3.png"
     },
     {
         "id": "pp",
         "title": "Papa's Pizzeria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Run your own pizzeria and make perfect pizzas for customers.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papaspizzeria.html",
         "thumb": "papaspizzeria.png"
     },
     {
         "id": "s2p",
         "title": "Slope 2 Player",
+        "category": "Action",
+        "genre": "Endless Runner",
+        "description": "2 player version of the popular Slope game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/slope2player.html",
         "thumb": "slope2player.png"
     },
     {
         "id": "bslime",
         "title": "Blumgi Slime",
+        "category": "Arcade",
+        "genre": "Physics / Casual",
+        "description": "Fun physics game with stretchy slime characters.",
         "url": "https://raw.githack.com/NoahsAmazingTutoringHelp/BlumgiSlime/main/index.html",
         "thumb": "blumgislime.png"
     },
     {
         "id": "brock",
         "title": "Blumgi Rocket",
+        "category": "Arcade",
+        "genre": "Physics / Casual",
+        "description": "Rocket-powered Blumgi physics adventures.",
         "url": "https://raw.githack.com/MajesticWafer/BlumgiRocket/gh-pages/index.html",
         "thumb": "blumgirocket.png"
     },
     {
         "id": "bracers",
         "title": "Blumgi Racers",
+        "category": "Racing",
+        "genre": "Racing / Physics",
+        "description": "Blumgi characters in racing mode.",
         "url": "https://raw.githack.com/chocobananakun/BlumgiRacers/main/index.html",
         "thumb": "blumgiracers.png"
     },
     {
         "id": "bcastle",
         "title": "Blumgi Castle",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "Blumgi platformer set in a castle.",
         "url": "https://raw.githack.com/jag-proj3ct/BlumgiCastle/main/index.html",
         "thumb": "blumgicastle.png"
     },
     {
         "id": "bsoc",
         "title": "Blumgi Soccer",
+        "category": "Sports",
+        "genre": "Soccer / Physics",
+        "description": "Blumgi characters playing soccer.",
         "url": "https://raw.githack.com/jag-proj3ct/BlumgiSoccer/main/index.html",
         "thumb": "blumgisoccer.png"
     },
     {
         "id": "bpaint",
         "title": "Blumgi Paintball",
+        "category": "Action",
+        "genre": "Shooter",
+        "description": "Paintball battles with Blumgi characters.",
         "url": "https://raw.githack.com/mcmattyobriore/BlumgiPaintball/main/index.html",
         "thumb": "blumgipaintball.png"
     },
     {
         "id": "bbloom",
         "title": "Blumgi Bloom",
+        "category": "Puzzle",
+        "genre": "Casual",
+        "description": "Beautiful Blumgi flower growing puzzle game.",
         "url": "https://raw.githack.com/jag-proj3ct/BlumgiBloom/main/index.html",
         "thumb": "blumgibloom.png"
     },
     {
         "id": "bdrag",
         "title": "Blumgi Dragon",
+        "category": "Action",
+        "genre": "Adventure",
+        "description": "Play as a Blumgi dragon in this adventure.",
         "url": "https://raw.githack.com/mcmattyobriore/BlumgiDragon/main/index.html",
         "thumb": "blumgidragon.png"
     },
     {
         "id": "bmerge",
         "title": "Blumgi Merge",
+        "category": "Puzzle",
+        "genre": "Merging",
+        "description": "Merge Blumgi characters and items.",
         "url": "https://raw.githack.com/jag-proj3ct/BlumgiMerge/main/index.html",
         "thumb": "blumgimerge.png"
     },
     {
         "id": "bbounce",
         "title": "Blumgi Bounce",
+        "category": "Arcade",
+        "genre": "Physics / Casual",
+        "description": "Bouncing Blumgi physics game.",
         "url": "https://raw.githack.com/Hydra-Network/hydra-assets/main/gmes/blumgi-bounce/index.html",
         "thumb": "blumgibounce.png"
     },
     {
         "id": "pbake",
         "title": "Papa's Bakeria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Run your own bakery and bake perfect pies.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papasbakeria.html",
         "thumb": "papasbakeria.png"
     },
     {
         "id": "pburg",
         "title": "Papa's Burgeria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Serve delicious burgers to hungry customers.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papasburgeria.html",
         "thumb": "papasburgeria.png"
     },
     {
         "id": "pcheese",
         "title": "Papa's Cheeseria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Make perfect grilled cheese sandwiches.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papascheeseria.html",
         "thumb": "papascheeseria.png"
     },
     {
         "id": "pcup",
         "title": "Papa's Cupcakeria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Bake and decorate beautiful cupcakes.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papascupcakeria.html",
         "thumb": "papascupcakeria.png"
     },
     {
         "id": "pdon",
         "title": "Papa's Donuteria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Fry and decorate delicious donuts.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papasdonuteria.html",
         "thumb": "papasdonuteria.png"
     },
     {
         "id": "phot",
         "title": "Papa's Hotdoggeria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Run a busy hot dog stand at the baseball park.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papashotdoggeria.html",
         "thumb": "papashotdoggeria.png"
     },
     {
         "id": "ppan",
         "title": "Papa's Pancakeria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Flip pancakes and serve breakfast to customers.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papaspancakeria.html",
         "thumb": "papaspancakeria.png"
     },
     {
         "id": "ppasta",
         "title": "Papa's Pastaria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Cook and serve delicious pasta dishes.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papaspastaria.html",
         "thumb": "papaspastaria.png"
     },
     {
         "id": "pscoop",
         "title": "Papa's Scooperia",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Make and serve perfect ice cream sundaes.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papasscooperia.html",
         "thumb": "papasscooperia.png"
     },
     {
         "id": "psushi",
         "title": "Papa's Sushiria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Prepare fresh sushi rolls for customers.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papassushiria.html",
         "thumb": "papassushiria.png"
     },
     {
         "id": "ptaco",
         "title": "Papa's Taco Mia",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Build tasty tacos in this Papa's restaurant.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papastacomia.html",
         "thumb": "papastacomia.png"
     },
     {
         "id": "pwing",
         "title": "Papa's Wingeria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Serve delicious chicken wings with various sauces.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papaswingeria.html",
         "thumb": "papaswingeria.png"
     },
     {
         "id": "pfreeze",
         "title": "Papa's Freezeria",
+        "category": "Simulation",
+        "genre": "Cooking / Management",
+        "description": "Make milkshakes and sundaes at the beach ice cream shop.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/papasfreezeria.html",
         "thumb": "papasfreezeria.png"
     },
     {
         "id": "gspin",
         "title": "GunSpin",
+        "category": "Arcade",
+        "genre": "Skill / Casual",
+        "description": "Spin the gun and try to land it perfectly.",
         "url": "https://raw.githack.com/ahrdevelopers/gunspin/main/index.html",
         "thumb": "gunspin.png"
     },
     {
         "id": "ibreak",
         "title": "Idle Breakout",
+        "category": "Simulation",
+        "genre": "Idle / Strategy",
+        "description": "Classic idle brick breaker game with tons of upgrades.",
         "url": "https://raw.githack.com/ahrdevelopers/idlebreakout/main/index.html",
         "thumb": "idlebreakout.png"
     },
     {
         "id": "swingo",
         "title": "Swingo",
+        "category": "Arcade",
+        "genre": "Skill / Casual",
+        "description": "Swing through levels with perfect timing.",
         "url": "https://raw.githack.com/ahrdevelopers/swingo/main/index.html",
         "thumb": "swingo.png"
     },
     {
         "id": "ovo3d",
         "title": "OvO Dimensions",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "3D version of the popular OvO platformer.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/ovo3dimensions.html",
         "thumb": "ovo3.png"
     },
     {
         "id": "holeio",
         "title": "Hole.io",
+        "category": "Arcade",
+        "genre": "IO / Battle Royale",
+        "description": "Eat everything in this popular .io game.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/holeio.html",
         "thumb": "holeio.png"
     },
     {
         "id": "wrestlebros",
         "title": "Wrestle Bros",
+        "category": "Action",
+        "genre": "Fighting",
+        "description": "Wrestling matches with funny bro characters.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/wrestlebros.html",
         "thumb": "wrestlebros.png"
     },
     {
         "id": "kartbros",
         "title": "Kart Bros",
+        "category": "Racing",
+        "genre": "Kart Racing",
+        "description": "Fun kart racing with bro characters.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/kartbros.html",
         "thumb": "kartbros.png"
     },
     {
         "id": "karatebros",
         "title": "Karate Bros",
+        "category": "Action",
+        "genre": "Fighting",
+        "description": "Karate fighting with bro characters.",
         "url": "https://raw.githack.com/shayderrr/Offline-HTML-Games-Pack/master/offline/karatebros.html",
         "thumb": "karatebros.png"
     },
     {
         "id": "chessmasters",
         "title": "Chess Masters",
+        "category": "Strategy",
+        "genre": "Chess",
+        "description": "Play chess against strong AI opponents.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/singlefileoffline/chessmasters.html",
         "thumb": "chessmasters.png"
     },
     {
         "id": "idledice",
         "title": "Idle Dice",
+        "category": "Simulation",
+        "genre": "Idle / Dice",
+        "description": "Roll dice and upgrade for massive idle gains.",
         "url": "https://raw.githack.com/Nailington/idle-dice/main/index.html",
         "thumb": "idledice.png"
     },
     {
         "id": "sm63",
         "title": "Super Mario 63",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "Fan-made 3D Super Mario 64 style game.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/flash%20games/sm63.html",
         "thumb": "sm63.png"
     },
     {
         "id": "rollingsky",
         "title": "Rolling Sky",
+        "category": "Action",
+        "genre": "Rhythm / Runner",
+        "description": "Roll the ball through beautiful levels synced to music.",
         "url": "https://raw.githack.com/bubbls/UGS-Assets/main/rolling-sky/index.html",
         "thumb": "rollingsky.png"
     },
     {
         "id": "helicoptergame",
         "title": "Helicopter Game",
+        "category": "Arcade",
+        "genre": "Endless Runner",
+        "description": "Classic helicopter flying game. Avoid obstacles as long as you can.",
         "url": "https://raw.githack.com/hazzatazza/hazzas-ripped-game-testing/main/helicoptergame/cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/helicoptergame/index.html",
         "thumb": "helicoptergame.png"
     },
     {
         "id": "fancypants1",
         "title": "The Fancy Pants Adventures: World 1",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "Stylish stickman platformer with great physics.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/flash%20games/fancypantsworld1.html",
         "thumb": "fancypants1.png"
     },
     {
         "id": "fancypants2",
         "title": "The Fancy Pants Adventures: World 2",
+        "category": "Action",
+        "genre": "Platformer",
+        "description": "The sequel to the popular Fancy Pants platformer.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/flash%20games/fancypantsworld2.html",
         "thumb": "fancypants2.png"
     },
     {
         "id": "ragdollhit",
         "title": "Ragdoll Hit",
+        "category": "Action",
+        "genre": "Physics Shooter",
+        "description": "Hit ragdolls with objects in this physics game.",
         "url": "https://raw.githack.com/Collasperz/ragdoll-hit/main/index.html",
         "thumb": "ragdollhit.png"
     },
     {
         "id": "stickfighter",
         "title": "Stick Fighter",
+        "category": "Action",
+        "genre": "Fighting",
+        "description": "Stickman fighting game with combos.",
         "url": "https://raw.githack.com/gameinclassroom/stick-fighter/main/index.html",
         "thumb": "stickfighter.png"
     },
     {
         "id": "deathrun3d",
         "title": "Death Run 3D",
+        "category": "Racing",
+        "genre": "Obstacle Racing",
+        "description": "Run from the death wall in 3D obstacle courses.",
         "url": "https://raw.githack.com/ahrdevelopers/death-run-3d/main/index.html",
         "thumb": "deathrun3d.png"
     },
     {
         "id": "talkingben",
         "title": "Talking Ben",
+        "category": "Entertainment",
+        "genre": "Virtual Pet",
+        "description": "Talk and play with the famous Talking Ben the dog.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/scratch/Talking%20Ben%20(1).html",
         "thumb": "talkingben.png"
     },
     {
         "id": "badpiggies",
         "title": "Bad Piggies",
+        "category": "Puzzle",
+        "genre": "Physics / Building",
+        "description": "Build vehicles for the pigs to reach their goals.",
         "url": "https://raw.githack.com/hazzatazza/the-one-with-bad-piggies/main/badpiggies/index.html",
         "thumb": "badpiggies.png"
     },
     {
         "id": "fallguysrunner",
         "title": "Fall Guys Runner",
+        "category": "Action",
+        "genre": "Endless Runner",
+        "description": "Run as a Fall Guys bean in this endless runner.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/scratch/Fall%20Guys%20Runner!.html",
         "thumb": "fallguys.png"
     },
     {
         "id": "harvestsim",
         "title": "Harvest Simulator",
+        "category": "Simulation",
+        "genre": "Farming",
+        "description": "Relaxing farming and harvesting simulator.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/multifile/harvestsim23/frivez.com/games/harvest-simulator/index.html",
         "thumb": "harvestsim.png"
     },
     {
         "id": "ducklingsio",
         "title": "Ducklings.io",
+        "category": "Strategy",
+        "genre": "IO / Survival",
+        "description": "Lead your ducklings and grow your flock in this cute .io game.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/singlefileoffline/ducklingsio.html",
         "thumb": "ducklingsio.png"
     },
     {
         "id": "buildnowgg",
         "title": "BuildNow.gg",
+        "category": "Action",
+        "genre": "Shooter / Building",
+        "description": "Build and fight in this fast-paced battle royale style game.",
         "url": "https://raw.githack.com/genizy/cg-rip/main/buildnow-gg/index.html",
         "thumb": "buildnowgg.png"
     },
     {
         "id": "smashkarts",
         "title": "Smash Karts",
+        "category": "Racing",
+        "genre": "Kart Racing / Battle",
+        "description": "Battle with karts using weapons and power-ups.",
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/smash-karts-main/index.html",
         "thumb": "smashkarts.png"
     }
